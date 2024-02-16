@@ -1,0 +1,50 @@
+ 2024-02-16
+
+ ➜  gemini-app python3 main.py
+Ask the genie anything you wish...
+ > What is the meaning of life, the universe, and everything?
+42
+➜  gemini-app python3 main.py
+Ask the genie anything you wish...
+ > What's the weather like in Rochester, NY, for the next 5 days?
+As an AI language model, I don't have real-time access to the internet or the ability to check the weather.
+
+For the most up-to-date and accurate weather forecast for Rochester, NY, please refer to a reputable weather app or website such as:
+- The Weather Channel
+- AccuWeather
+- National Weather Service
+➜  gemini-app python3 main.py
+Ask the genie anything you wish...
+ > What's a quirky and fun application of a generative language model?
+**Lyric Generator for Unique Karaoke Night**
+
+**Concept:**
+Create a model that generates lyrics in real-time based on user inputs.
+
+**Usage:**
+* Users provide a starting phrase or melody.
+* The model uses advanced NLP to continue generating unique and coherent lyrics.
+* Users can customize the lyrics to match their desired style or share their creations with others.
+
+**Quirks and Fun:**
+* Users can experiment with various prompts to create surprising and hilarious lyrics.
+* The model can generate lyrics in different languages, making karaoke nights even more international.
+* Users can challenge each other to create the most creative or absurd lyrics.
+
+**Additional Features:**
+
+* **Beat Matcher:** The model can adjust its lyrics to match the tempo and rhythm of the music.
+* **Genre Selector:** Users can specify the desired genre for the lyrics, including pop, rock, rap, and more.
+* **Collaborator Mode:** Multiple users can work together to create lyrics, fostering collaboration and laughter.
+➜  gemini-app
+
+➜  gemini-app python3 main.py
+Ask the genie anything you wish...
+ > Generate a paragraph that's grammatically correct about King Edward I of England using as many words that start with the letter 'p' as possible.
+King Edward I of England, known as "Longshanks" for his towering stature, is renowned for his pivotal role in shaping English history. As a powerful and persistent ruler, he played a primary part in pacifying Wales, particularly through his construction of mighty fortresses designed to protect his newly acquired possessions. These imposing structures, peppering the Welsh landscape, played a pivotal part in preventing potential rebellions and preserving his power.
+➜  gemini-app
+
+(gemini-app-env) ➜  gemini-app git:(main) ✗ python3 main.py
+Ask the genie anything you wish...
+ > What the heck?
+I'm sorry, I don't understand the question.
